@@ -1,1 +1,2 @@
-# project
+# projects
+by Sean Yeon
